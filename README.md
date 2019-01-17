@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+For a live demo, click here: https://tokyosuite.github.io/crossword-puzzle/
 
 This project was created with the following API (which contains the most recent New York Times crossword in JSON format): https://www.xwordinfo.com/JSON/Data.aspx?format=text
 
